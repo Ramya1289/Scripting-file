@@ -1,0 +1,1 @@
+json is a file that stores simple data structures and objects in javascript object notation(JSON) format.
